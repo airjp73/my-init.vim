@@ -38,6 +38,9 @@ Plug 'rakr/vim-one'
 " Interface
 " Plug 'Shuogo/denite.nvim'
 
+" Arduino
+Plug 'sudar/vim-arduino-syntax'
+
 call plug#end()
 
 " --- General Settings ---
